@@ -31,7 +31,13 @@ import re
 import sys
 
 # Complete the compareTriplets function below.
-
+Alice = 0
+Bob = 0
+for i in range(len(a)):
+    if a[i] > b[i]:
+        Alice = Alice + 1
+    elif a[i] < b[i]:
+        Bob = Bob + 1
 
 a = list(map(int, input().rstrip().split()))
 
