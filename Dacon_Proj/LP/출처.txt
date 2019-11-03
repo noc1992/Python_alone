@@ -1,0 +1,4 @@
+https://m.blog.naver.com/bluefish850/220749045909
+https://darkpgmr.tistory.com/133 그래디언트 
+https://swalloow.github.io/bagging-boosting 부스팅
+https://github.com/Microsoft/LightGBM/blob/master/docs/Features.rst lightgbm 
