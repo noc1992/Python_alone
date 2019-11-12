@@ -1,4 +1,6 @@
-https://m.blog.naver.com/bluefish850/220749045909
+https://m.blog.naver.com/bluefish850/220749045909 시계열 분석
 https://darkpgmr.tistory.com/133 그래디언트 
 https://swalloow.github.io/bagging-boosting 부스팅
 https://github.com/Microsoft/LightGBM/blob/master/docs/Features.rst lightgbm 
+https://eng.uber.com/neural-networks/   우버 smape
+https://bcho.tistory.com/1354 조대협 xgb
